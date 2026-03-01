@@ -58,5 +58,3 @@ Protogen - Adding to guide
 
 9. Unobfuscate
 - AI can unobfuscate but you need to remove the comments at the top or it will NOT do it! (and ask it to unhardcode all of it as it will give the same account for EVERYONE!)
-
-If you run into issues feel free to make an issue then I will try my best to help (i have only gotten this to work as of writing this so yeah)
